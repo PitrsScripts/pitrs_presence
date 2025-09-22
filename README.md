@@ -4,7 +4,7 @@ pitrs-presence is a modern and lightweight FiveM Discord Rich Presence system de
 
 Whether players are browsing character selection or actively roleplaying, Presence ensures their Discord status always reflects the in-game world.
 
-https://cdn.discordapp.com/attachments/1367682516244369508/1419775390452289597/image.png?ex=68d2fc5f&is=68d1aadf&hm=559b39d66cbb04065f0ef9b16b360a5eb5460d1acbed5f62fcd97fa949fd039d&
+https://imgur.com/a/Pk3V6aC
 
 # 🎮 Immersive Rich Presence
 
