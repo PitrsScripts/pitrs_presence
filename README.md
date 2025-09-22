@@ -29,3 +29,11 @@ Whether players are browsing character selection or actively roleplaying, Presen
 * Rich Presence connects your game session with your Discord account
 
 * Makes it easy for friends to see what you’re doing and join
+
+|||
+| --- | --- |
+|**Code is accessible**|Yes|
+|**Subscription-based**|No|
+|**Lines (approximately)**|~54|
+|**Requirements**|esx|
+|**Support**|Yes|
