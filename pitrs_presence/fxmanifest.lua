@@ -9,3 +9,8 @@ client_scripts {
     'client.lua'
 }
 
+dependencies {
+    'es_extended'
+}
+
+
